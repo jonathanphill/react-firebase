@@ -27,6 +27,12 @@
 .App-link {
   color: #61dafb;
 }
+.BookList{
+  /* border:2px solid tomato; */
+  list-style:none;
+  text-transform: uppercase;
+  color: #fff;
+}
 
 @keyframes App-logo-spin {
   from {
